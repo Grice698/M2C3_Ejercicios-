@@ -6,8 +6,7 @@ list = [1, 2, 3, 4]
 
 user_age = 13
 
-bool = 100
-print(bool > 50)
+boolean = True
 
 
 # Excersise 2: Use an index to grab the first 3 letters in your string, store that in a variable. 

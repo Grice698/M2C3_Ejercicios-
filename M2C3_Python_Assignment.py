@@ -26,8 +26,7 @@ print(list_first_element)
 
 # Excersise 4: Create a new number variable that adds 10 to your original number.
 
-add = 10
-new_number = number + add
+new_number = number + 10
 
 print(new_number)
 

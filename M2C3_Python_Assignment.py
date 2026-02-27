@@ -5,11 +5,9 @@ number = 13
 list = [1, 2, 3, 4]
 
 user_age = 13
-if user_age <= 17:
-    print("You are not allowed to enter")
 
-else:
-    print("You are allowed to enter")
+bool = 100
+print(bool > 50)
 
 
 # Excersise 2: Use an index to grab the first 3 letters in your string, store that in a variable. 
@@ -28,7 +26,8 @@ print(list_first_element)
 
 # Excersise 4: Create a new number variable that adds 10 to your original number.
 
-new_number = number.__add__(10)
+add = 10
+new_number = number + add
 
 print(new_number)
 
